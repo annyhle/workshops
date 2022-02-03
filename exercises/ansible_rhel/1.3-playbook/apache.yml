@@ -1,6 +1,6 @@
 ---
 - name: Apache server installed
-  hosts: test_host
+  hosts: test.pilim.net
   become: true
   tasks:
 
